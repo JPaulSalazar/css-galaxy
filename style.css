@@ -1,0 +1,37 @@
+body{
+    background-image: url(/imagenes/5364a02be1fb51dee6722d47a1f088e1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: purple;
+    background-color: skyblue;
+    text-decoration: overline;
+    font-size: 40px;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 2px 2px sandybrown;
+}
+#galaxia{
+    color:purple;
+    background-color: skyblue;
+    font-size: 40px;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 2px 2px sandybrown;
+}
+#estelar{
+    color:purple;
+    /*background-color: rgba(255, 255, 255, 0.116);*/  
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+    text-transform: capitalize;
+    text-shadow: 2px 2px sandybrown;
+}
+#espacio{
+    background-image: url(/imagenes/PicsArt_07-01-05.55.18.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
